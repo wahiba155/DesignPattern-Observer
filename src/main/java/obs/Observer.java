@@ -1,6 +1,6 @@
 package obs;
 
 public interface Observer {
-    void update(ObservableImpl newSate);
+    void update(int newSate);
 
 }
